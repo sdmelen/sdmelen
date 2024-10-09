@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdmelen
 - 👀 I’m interested in C coding as it's fundamental language in order to understand algorithms
-- 🌱 I’m currently learning shall/bash and C
-- 💞️ I’m looking to collaborate on python/ML in future but it will be possible not earlier than in half a year
+- 🌱 I’m currently learning C/C++ and Python
+- 💞️ I’m looking to collaborate on python/ML
 - 📫 How to reach me: t.me/sdmelen
 
 <!---
